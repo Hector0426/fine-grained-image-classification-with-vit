@@ -30,8 +30,6 @@ In the paper, we use images from there publicly available datasets:
 + [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 + [NABirds](http://dl.allaboutbirds.org/nabirds)
 + [iNat2017](https://github.com/visipedia/inat_comp/tree/master/2017)
-+ [Stanford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
-+ [FGVC Aircraft](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
 
 Please download them from the official websites and put them in the corresponding folders.
 
